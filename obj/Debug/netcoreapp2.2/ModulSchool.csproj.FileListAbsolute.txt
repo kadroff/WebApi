@@ -1,0 +1,14 @@
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.csprojAssemblyReference.cache
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.csproj.CoreCompileInputs.cache
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.RazorAssemblyInfo.cache
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.RazorAssemblyInfo.cs
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.AssemblyInfoInputs.cache
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.AssemblyInfo.cs
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/bin/Debug/netcoreapp2.2/ModulSchool.deps.json
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/bin/Debug/netcoreapp2.2/ModulSchool.runtimeconfig.json
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/bin/Debug/netcoreapp2.2/ModulSchool.runtimeconfig.dev.json
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/bin/Debug/netcoreapp2.2/ModulSchool.dll
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/bin/Debug/netcoreapp2.2/ModulSchool.pdb
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.RazorTargetAssemblyInfo.cache
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.dll
+/home/marsel-dev/www/modulbank/ModulSchool/ModulSchool/obj/Debug/netcoreapp2.2/ModulSchool.pdb
